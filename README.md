@@ -1,6 +1,6 @@
 # bangla-fonts
 Bangla fonts collection
-## Installation
+## Installation for linux
 
 ```
 git clone https://github.com/tazihad/bangla-fonts.git  
